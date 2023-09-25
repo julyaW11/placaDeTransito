@@ -1,2 +1,2 @@
 # placaDeTransito
-Objeto de 5 hierarquias feito em C e OpenGL
+Objeto de 5 hierarquias feito em C++ com OpenGL
